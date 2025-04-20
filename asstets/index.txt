@@ -1,0 +1,20 @@
+Srishti Shrivastava – Web Developer
+"I'm a passionate web developer specializing in creating modern,
+ responsive, and user-friendly websites. With expertise in Java, Python, 
+and front-end technologies like HTML, CSS, JS, SASS, and Bootstrap, 
+I craft seamless web experiences that bring ideas to life.
+
+I also have experience in SQL, Android Development,
+ along with done internship in IoT projects using Arduino. 
+ Whether you're looking for a custom-built website or 
+ want to enhance your existing platform, I’m here to help!"
+
+Certifications
+Digital Nurture 2021 – Workplace Skills to Leap Ahead (Cognizant)
+IoT & Cloud Computing with Python, Raspberry Pi & IBM Cloud
+
+
+🏆 Smart City Competition – Qualified as a finalist
+♟️ Inter-School Chess Competition – 3rd Prize Winner
+🎨 Sketching Competition – 2nd Position
+📚 Talent Search Exam (Bhopal District) – 3rd Position
